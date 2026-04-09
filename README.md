@@ -53,11 +53,8 @@ W3EAX has a remarkable track record that goes well beyond hobby radio:
 This GitHub organization hosts code, documentation, and resources for W3EAX projects, including:
 
 ```
-├── balloon-payloads/     # High-altitude balloon firmware & tracking
-├── station-configs/      # Rig and software configuration files
-├── aprs-tools/           # APRS utilities and scripts
-├── license-prep/         # Study materials and practice question banks
-└── docs/                 # Club bylaws, guides, and meeting notes
+├──TBD EME/               # EME Project
+└── docs/                 # Club
 ```
 
 Contributions from members and alumni are always welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
