@@ -38,15 +38,6 @@ W3EAX has a remarkable track record that goes well beyond hobby radio:
 
 - **Field Day & Public Service** — The club has a long tradition of participating in ARRL Field Day exercises and emergency communication preparedness.
 
-## What We Do
-
-🔭 **On-Air Operations** — HF, VHF, and UHF operation from our campus station  
-🎓 **License Prep** — Study sessions and practice exams for Technician, General, and Extra  
-🛰️ **Experimentation** — Digital modes, satellite contacts, APRS, SDR, and more  
-📡 **Contesting** — Participation in ARRL contests and special event stations  
-🤝 **Elmering** — Experienced members mentor newcomers in all aspects of ham radio  
-🎈 **Projects** — High-altitude balloons, fox hunts, antenna building, and homebrew electronics  
-
 ## Getting Involved
 
 | What | Details |
