@@ -27,6 +27,9 @@ Over nine decades later, W3EAX continues to provide UMD students and staff with 
 No license? No problem. Members range from seasoned Extra-class operators to complete beginners. If you're interested in radio, you belong here.
 
 ## History & Legacy
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6035b1be-2b4d-4224-8fda-c8c590ba904a" alt="W3EAX Logo" width="280" />
+</p>
 
 W3EAX has a remarkable track record that goes well beyond hobby radio:
 
