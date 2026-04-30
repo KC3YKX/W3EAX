@@ -51,17 +51,6 @@ W3EAX has a remarkable track record that goes well beyond hobby radio:
 | **Email** | `w3eax-trustee@umd.edu` |
 | **ARRL Affiliate** | Yes — [ARRL Club Page](https://www.arrl.org/Groups/view/university-of-maryland-ara) |
 
-## Repository
-
-This GitHub organization hosts code, documentation, and resources for W3EAX projects, including:
-
-```
-├──TBD EME/               # EME Project
-└── docs/                 # Club
-```
-
-Contributions from members and alumni are always welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ## Quick Links
 
 | Resource | Link |
